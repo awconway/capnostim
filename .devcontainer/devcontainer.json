@@ -18,6 +18,8 @@
 	"extensions": [
 		"ikuyadeu.r",
 		"REditorSupport.r-lsp",
+		"hoovercj.vscode-settings-cycler",
+		"ms-azuretools.vscode-docker"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
